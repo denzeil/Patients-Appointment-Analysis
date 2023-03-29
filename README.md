@@ -17,4 +17,4 @@
 
 >Their is no relationship between other variables and attendance according to my findings
 
->The limitation that I have ran across is that their are many different neighbourhoods and analysing the data from those places is hectic. I would suggest that neighbourhoods to be divided into divisions of 15 or 20.The places that are close to each other to be grouped into a specific division for example 'Divison 1' etc
+>The limitation that I have ran across is that their are many different neighbourhoods and analysing the data from those places is hectic. I would suggest that neighbourhoods to be divided into divisions of 15 or 20.The places that are close to each other to be grouped into a specific division for example 'Divison 1' 
