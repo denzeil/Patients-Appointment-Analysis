@@ -4,7 +4,9 @@
 
 >What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment? 
 >1. Age and attendance 
+
 >2. Gender and attendance 
+
 >3. Other factors and attendance
 
 >Conclusions
