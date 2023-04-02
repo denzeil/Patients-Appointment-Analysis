@@ -3,15 +3,14 @@
 >In this project I'll be analysing the 'No-show appointments' dataset that shows whether patients make an appearance for their appointments or not .In particular ,I am intrested in finding patterns on patients that show up and how they differ from those that don't show up. The following columns will be in my dataset : PatientId, AppointmentID, Gender, ScheduledDay, AppointmentDay, Age, Neighbourhood, Scholarship, Hipertension, Diabetes, Alcoholism, Handcap, SMS_received and No-show.
 
 >What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment? 
+
 >1. Age and attendance 
-
 >2. Gender and attendance 
-
 >3. Other factors and attendance
 
 >Conclusions
 
->According to my findings ,their are more people who missed their appointment
+>According to my findings ,their are more people who missed their appointment.
 
 >Their is no relationship between the ages of people who attended and different,the ratios are quite similar
 
